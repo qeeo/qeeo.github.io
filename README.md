@@ -1,2 +1,2 @@
-# site 
-Link [GitHub Pages](https://qeeo.github.io)
+# Сайт
+Страница сайта [ссылка](https://qeeo.github.io)
